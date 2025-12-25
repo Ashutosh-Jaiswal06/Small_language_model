@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nano-GPT-OSS Language Model
+# Small Language Model
 
 **An open-source transformer that balances full-context and sliding-window attention for efficient, scalable LLM training and inference.**
 
